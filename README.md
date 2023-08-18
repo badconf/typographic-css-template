@@ -2,6 +2,8 @@
 
 Welcome to the HTML and CSS Typography Page repository. This project contains a unique and beautifully designed HTML page focusing on typography, enhanced by a dedicated CSS style file. Whether you're a designer, developer, or typography enthusiast, you can use this code as a base to create stunning web pages.
 
+You can directly see how it looks [here](https://badconf.github.io/typographic-css-template/)
+
 ## What's Inside
 
 Here's a breakdown of what you'll find in this repository:
