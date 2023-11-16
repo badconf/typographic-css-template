@@ -18,6 +18,12 @@ a:visited {color:#606;}
 a:hover {color:#606;}
 a:active {color:#900; outline:none;}
 
+/* Ajouter des règles CSS pour gérer la césure des mots */
+p, h1, h2, h3, h4, h5, h6 {
+  -webkit-hyphens: auto;
+  -ms-hyphens: auto;
+  hyphens: auto;
+}
 h1 {
   font-size:320%;
   line-height:1.35;
